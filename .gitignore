@@ -1,0 +1,9 @@
+_STORE
+.DS_Store
+*.swp
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
